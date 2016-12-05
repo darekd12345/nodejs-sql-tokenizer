@@ -1,6 +1,6 @@
 # nodejs-sql-tokenizer
 
-An unfinished small nodejs project containing SQL tokenizer with few keywords
+An unfinished small nodejs project containing SQL tokenizer with a few keywords
 
 Usage:
 
